@@ -7,6 +7,7 @@ package com.zhuoxiu;
 public class git_test {
     public static void main(String[] args) {
         forMethod();
+        cloneTest();
     }
 
     private static void forMethod(){
@@ -17,7 +18,7 @@ public class git_test {
 
     }
 
-    private static void CloneTest(){
+    private static void cloneTest(){
         //开发人员二添加
         for (int i = 0; i < 20; i++) {
             System.out.println("开发人员二");
