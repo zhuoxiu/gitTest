@@ -10,6 +10,10 @@ public class git_test {
         cloneTest();
     }
 
+    private static void rollbackTest(){
+        System.out.println(1);
+    }
+
     private static void forMethod(){
         //循环打印10次
         for (int i = 0; i < 10; i++) {
