@@ -14,5 +14,13 @@ public class git_test {
         for (int i = 0; i < 10; i++) {
             System.out.println("hello world");
         }
+
+    }
+
+    private static void CloneTest(){
+        //开发人员二添加
+        for (int i = 0; i < 20; i++) {
+            System.out.println("开发人员二");
+        }
     }
 }
