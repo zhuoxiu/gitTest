@@ -11,7 +11,7 @@ public class git_test {
     }
 
     private static void rollbackTest(){
-        System.out.println(1);
+        System.out.println(2);
     }
 
     private static void forMethod(){
